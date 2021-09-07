@@ -31,4 +31,4 @@ A top-down shooter bullet-hell roguelike game.
 - Use SPACE for everything else.
 
 ---
-Developed with Processing (https://processing.org/)
+Developed using Processing (https://processing.org/), built on Java.

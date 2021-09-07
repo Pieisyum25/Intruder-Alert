@@ -1,6 +1,7 @@
 # Intruder Alert
-A top-down shooter bullet-hell roguelike game.
 ---
+A top-down shooter bullet-hell roguelike game.
+
 ### Menu Screenshots:
 <p float="left">
   <img src="https://user-images.githubusercontent.com/80517108/132337852-8cd1f973-a9d5-4625-8f8b-95301a48c0d0.JPG" alt="screenshot of menu" width="450"/>
@@ -19,7 +20,7 @@ A top-down shooter bullet-hell roguelike game.
 - Intruder alert! Intruder alert! Intruders have boarded the ship!
 - Move quickly. Use your guns and the environment to eliminate all enemies while dodging their projectiles.
 - Pick up enemy guns for extra firepower!
-- Source code and art made by Pieisyum25 (me).
+- Source code made by Pieisyum25 (me).
 
 **Play by downloading the .zip and launching Intruder_Alert.exe (Windows only).**
 

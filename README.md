@@ -23,7 +23,7 @@ A top-down shooter bullet-hell roguelike game.
 - Pick up enemy guns for extra firepower!
 - Source code made by Pieisyum25 (me).
 
-**Play by downloading the .zip and running the executable .jar file Intruder_Alert.jar (requires Java Runtime Environment (JRE)).**
+**Play by downloading the .zip and running the executable .jar file Intruder_Alert.jar (requires a recent version of Java Runtime Environment (JRE)).**
 
 ### Controls:
 - Move with WASD.
